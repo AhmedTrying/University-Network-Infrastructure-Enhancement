@@ -13,6 +13,9 @@ This repository contains the "University Network Infrastructure Enhancement" rep
 7. [Conclusion](#conclusion)
 8. [References](#references)
 
+![image](https://github.com/user-attachments/assets/eccb2079-7dde-4b43-8764-a10d05e61137)
+
+
 ## Introduction
 In an era where technology shapes the landscape of education, the significance of a robust and adaptable network cannot be overstated. This report serves as a compass guiding the university through the details of upgrading its network to meet the evolving demands of academia and administration.
 
